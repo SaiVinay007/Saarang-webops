@@ -1,0 +1,37 @@
+.ng-touched.ng-invalid{
+  border: 1px solid red;
+
+
+}
+.f1{
+  background-image: url("abc.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.f2{
+  background-image: url("ro.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.f3{
+  background-image: url("co.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.f4{
+  background-image: url("an.jpg");
+
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
