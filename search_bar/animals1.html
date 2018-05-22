@@ -1,0 +1,44 @@
+<br>
+<br>
+<br>
+<br><br><br>
+<div class="container"  >
+  <div class="row justify-content-center">
+    <div class="col-sm-5">
+      <input  type="text" class="form-control"  name="some_input" ng-model="search_box" value="search_box"  ng-keyup="complete(search_box)"    placeholder="type some animal name"  />
+      <ul class="list-group" >
+        <li class="list-group-item"  ng-repeat="animal in empty_array" ng-show="flag" ng-click="fix_animal(animal)" onmouseover="style.color='blue'" onmouseout="style.color='black'"  ><a  id="ui" >{{animal}}</a></li>
+      </ul>
+    </div>
+<div class="clo-sm-2">
+  <button  class="btn btn-primary anime "    data-toggle="modal" data-target="#myModal"   ng-click="animal_show(search_box)"   type="button" >Search</button>
+</div>
+  </div>
+
+
+<div id="myModal" class="modal fade"  role="dialog">
+  <div class="modal-dialog modal-lg">
+
+
+    <div class="modal-content">
+      <div class="modal-header">
+
+        <h4 class="modal-title">{{animal_name}}</h4>
+      </div>
+      <div class="modal-body">
+        <img src={{animal_image}} >
+
+        <p>{{animal_content}}</p>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+
+
+
+</div>
