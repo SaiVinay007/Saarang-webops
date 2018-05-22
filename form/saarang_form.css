@@ -35,3 +35,55 @@ body, html {
 
 
 }
+
+.anime{
+
+  /*for animation to move or else it doesnot move orelse we can use paddling and dont specify position as relative*/
+  background-color: blue;
+  animation-name: test;
+  animation-duration: 20s;
+  animation-iteration-count: infinite;
+
+}
+@keyframes test{
+  /*used for doing animation */
+  /* from{
+    background-color: blue;
+  }
+  to{
+    background-color: black;
+  } */
+     0%{
+    background-color: black;
+
+    height: 5vw;
+
+  }
+  20%{
+    background-color: #16b2dd;
+      height: 5vw;
+
+
+  }
+  40%{
+    background-color:#04d118 ;
+      height: 5vw;
+
+
+
+  }
+   60%{
+    background-color: #fc023c;
+  height: 5vw;
+  }
+  80%{
+   background-color: #2e01aa;
+ height: 5vw;
+ }
+  100%{
+    background-color: black;
+
+    height: 5vw;
+  } */
+
+}
