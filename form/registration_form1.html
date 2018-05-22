@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html ng-app ="srng">
   <head>
@@ -29,40 +30,40 @@
 
         <div class="form-group">
 			       <label for="name1">First Name</label>
-			       <input type="text" class="form-control" name="name1" ng-model="login.firstname" ng-minlength="3" ng-pattern="/^[a-zA-Z\s]*$/" value="" placeholder="Enter your first name" required>
+			       <input type="text" class="form-control" name="name1" ng-model="login.firstname"  ng-pattern="/^[a-zA-Z\s]*$/" value="" placeholder="Enter your first name" required>
 		    </div>
-        <span ng-show=" registerForm.name1.$dirty && registerForm.name1.$invalid " style="color: red;">*Enter valid name</span>
+        <span ng-show=" registerForm.name1.$dirty && registerForm.name1.$invalid " style="color: red;"><small>*Enter valid name</small></span>
 
         <div class="form-group">
 			       <label for="name2">Last Name</label>
-			       <input type="text" class="form-control" name="name2" ng-model="login.lastname" ng-minlength="3" ng-pattern="/^[a-zA-Z\s]*$/"value="" placeholder="Enter your last name" required>
+			       <input type="text" class="form-control" name="name2" ng-model="login.lastname"  ng-pattern="/^[a-zA-Z\s]*$/"value="" placeholder="Enter your last name" required>
 		    </div>
-        <span ng-show=" registerForm.name2.$invalid && registerForm.name2.$dirty" style="color: red;">Enter valid name</span>
+        <span ng-show=" registerForm.name2.$invalid && registerForm.name2.$dirty" style="color: red;"><small>*Enter valid name</small></span>
 
         <div class="form-group">
 			       <label for="ph">Phone Number</label>
-			       <input type="text" class="form-control" name="ph" value="" ng-model="login.phone"  ng-pattern="/^[1-9]{1}[0-9]{9}$/" placeholder="Enter your phone number(10 digits)" required>
+			       <input type="text" class="form-control" name="ph" value="" ng-model="login.phone"  ng-pattern="/^[1-9]{1}[0-9]{9}$/" placeholder="Enter your phone number" required>
 		    </div>
-        <span ng-show=" registerForm.ph.$invalid && registerForm.ph.$dirty" style="color: red;">Enter valid number</span>
+        <span ng-show=" registerForm.ph.$invalid && registerForm.ph.$dirty" style="color: red;"><small>*Enter a valid phone number</small></span>
 
         <div class="form-group">
 			       <label for="emailid">Email</label>
 			       <input type="email" class="form-control" name="emailid" ng-model="login.email" ng-pattern="/^[^\s@]+@[^\s@]+\.[^\s@]{2,}$/" value="" placeholder="Enter your email" required>
 		    </div>
-        <span ng-show="registerForm.emailid.$dirty && registerForm.emailid.$invalid" style="color: red;">Enter valid email</span>
+        <span ng-show="registerForm.emailid.$dirty && registerForm.emailid.$invalid" style="color: red;"><small>*Enter valid email</small></span>
 
 
         <div class="form-group">
 			       <label for="pwd">Password</label>
 			       <input type="password" class="form-control" name="pwd" value="" ng-model="login.pwd" ng-minlength="8" placeholder="Enter your password" required>
 		    </div>
-        <span ng-show="registerForm.pwd.$dirty && registerForm.pwd.$invalid" style="color: red;">Atleast 8 charecters</span>
+        <span ng-show="registerForm.pwd.$dirty && registerForm.pwd.$invalid" style="color: red;"><small>*Atleast 8 charecters</small></span>
 
         <div class="form-group">
 			       <label for="cpwd">Confirm Password</label>
 			       <input type="password" class="form-control" name="cpwd" value="" ng-model="login.cpwd" ng-pattern="login.pwd" placeholder="Type your password again" required>
 		    </div>
-        <span ng-show="registerForm.cpwd.$dirty && registerForm.cpwd.$invalid" style="color: red;">Enter the same password as above</span>
+        <span ng-show="registerForm.cpwd.$dirty && registerForm.cpwd.$invalid" style="color: red;"><small>*Enter the same password as above</small></span>
 
 		<center>
       <a href="registered.html">
