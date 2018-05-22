@@ -1,0 +1,127 @@
+[
+  {
+    "name" : "Antelop",
+    "features":"An antelope is a member of a number of even-toed ungulate species indigenous to various regions in Africa and Eurasia ",
+    "image":"https://www.animalsandenglish.com/uploads/6/6/0/6/6606397/7707746_orig.jpg"
+
+
+  },
+  {
+    "name" : "Bear",
+    "features":"Bears are carnivoran mammals of the family Ursidae. They are classified as caniforms, or doglike carnivorans",
+    "image":"http://www.zastavki.com/pictures/640x480/2012/Animals_Bears_Lone-bear_031835_29.jpg"
+
+  },
+  {
+    "name" : "Buffalo",
+    "features":"The water buffalo or domestic Asian water buffalo is a large bovid originating in South Asia, Southeast Asia, and China. Today, it is also found in Europe, Australia, North America, South America and some African countries",
+    "image":"https://images.pexels.com/photos/460223/pexels-photo-460223.jpeg?auto=compress&cs=tinysrgb&h=350"
+
+  },
+
+
+  {
+    "name" : "Camel",
+    "features":"A camel is an even-toed ungulate in the genus Camelus that bears distinctive fatty deposits on its back. Camels have long been domesticated and, as livestock, they provide food and textiles.",
+    "image":"https://targetstudy.com/files/img/34/12/M_21390.jpg"
+  },
+  {
+    "name" : "Cat",
+    "features":"The domestic cat is a small, typically furry, carnivorous mammal. They are often called house cats when kept as indoor pets or simply cats when there is no need to distinguish them from other felids and felines.",
+    "image":"https://images.pexels.com/photos/236230/pexels-photo-236230.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+
+
+  {
+    "name" : "Chimpanze",
+    "features":"The taxonomical genus Pan consists of two extant species: the common chimpanzee and the bonobo. Together with humans, gorillas, and orangutans they are part of the family Hominidae",
+    "image":"http://animals.sandiegozoo.org/sites/default/files/styles/view_thumbnail/public/2016-10/animals_hero_chimpanzee.jpg?h=d1cb525d&itok=7bnJaMs_"
+  },
+  {
+    "name" : "Cow",
+    "features":"Cattle—colloquially cows—are the most common type of large domesticated ungulates. They are a prominent modern member of the subfamily Bovinae, are the most widespread species of the genus Bos, and are most commonly classified collectively as Bos taurus.",
+    "image":"https://images.pexels.com/photos/66400/pexels-photo-66400.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name" : "Zebra",
+    "features":"Zebras are several species of African equids united by their distinctive black and white striped coats. Their stripes come in different patterns, unique to each individual. They are generally social animals that live in small harems to large herds",
+    "image":"https://images.pexels.com/photos/73811/baby-zebra-safari-serengeti-tanzania-73811.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+
+  {
+    "name" : "Deer",
+    "features":"Deer are the ruminant mammals forming the family Cervidae. The two main groups are the Cervinae, including the muntjac, the elk, the fallow deer and the chital, and the Capreolinae, including the reindeer, the roe deer and the moose",
+    "image":"https://images.pexels.com/photos/52961/antelope-nature-flowers-meadow-52961.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name" : "Dog",
+    "features":"The domestic dog is a member of the genus Canis, which forms part of the wolf-like canids, and is the most widely abundant terrestrial carnivore",
+    "image":"https://www.planwallpaper.com/static/cache/28/e3/28e3ec0f71a2edb878630cafe8ec3571.jpg"
+  },
+
+  {
+    "name" : "Donkey",
+    "features":"The donkey or ass is a domesticated member of the horse family, Equidae. The wild ancestor of the donkey is the African wild ass, E. africanus. The donkey has been used as a working animal for at least 5000 years",
+    "image":"https://images.pexels.com/photos/768078/pexels-photo-768078.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+
+  {
+    "name" : "Elephant",
+    "features":"Elephants are large mammals of the family Elephantidae and the order Proboscidea. Three species are currently recognised: the African bush elephant, the African forest elephant, and the Asian elephant",
+    "image":"https://images.pexels.com/photos/247431/pexels-photo-247431.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name" : "Fox",
+    "features":"Foxes are small-to-medium-sized, omnivorous mammals belonging to several genera of the family Canidae. Foxes have a flattened skull, upright triangular ears, a pointed, slightly upturned snout, and a long bushy tail",
+    "image":"https://images.pexels.com/photos/134058/pexels-photo-134058.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+
+  {
+    "name" : "Goat",
+    "features":"The domestic goat is a subspecies of goat domesticated from the wild goat of southwest Asia and Eastern Europe. The goat is a member of the family Bovidae and is closely related to the sheep as both are in the goat-antelope subfamily Caprinae",
+    "image":"https://www.featurepics.com/FI/Thumb300/20061125/Goats-148353.jpg"
+  },
+  {
+    "name" : "Gorilla",
+    "features":"Gorillas are ground-dwelling, predominantly herbivorous apes that inhabit the forests of central Sub-Saharan Africa. The genus Gorilla is divided into two species: the eastern gorillas and the western gorillas, and either four or five subspecies",
+    "image":"https://images.pexels.com/photos/39571/gorilla-silverback-animal-silvery-grey-39571.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+
+  {
+    "name" : "Giraffe",
+    "features":"The giraffe is a genus of African even-toed ungulate mammals, the tallest living terrestrial animals and the largest ruminants. The genus currently consists of one species, Giraffa camelopardalis, the type species",
+    "image":"https://images.pexels.com/photos/259554/pexels-photo-259554.jpeg?auto=compress&cs=tinysrgb&h=350"
+  },
+  {
+    "name" : "Horse",
+    "features":"The horse is one of two extant subspecies of Equus ferus. It is an odd-toed ungulate mammal belonging to the taxonomic family Equidae.",
+    "image":"https://vignette.wikia.nocookie.net/oesterskovrp/images/0/09/Horse-1.jpg/revision/latest/scale-to-width-down/640?cb=20140131182636"
+  },
+  {
+    "name" : "Tiger",
+    "features":"The tiger is the largest cat species, most recognizable for its pattern of dark vertical stripes on reddish-orange fur with a lighter underside. The species is classified in the genus Panthera with the lion, leopard, jaguar, and snow leopard.",
+    "image":"https://dingo.care2.com/pictures/causes/3215/3214061.large.jpg"
+  },
+  {
+    "name" : "Lion",
+    "features":"The lion is a species in the family Felidae, and a member of the genus Panthera. It exhibits a pronounced sexual dimorphism; males are larger than females with a typical weight range of 150 to 250 kg for the former and 120 to 182 kg for the latter",
+    "image":"https://www.planwallpaper.com/static/cache/9f/15/9f15c594cf75d0ea1ce699c31672fb04.jpg"
+  },
+  {
+    "name" : "Monkey",
+    "features":"Monkeys are non-hominoid simians, generally possessing tails and consisting of about 260 known living species. Many monkey species are tree-dwelling, although there are species that live primarily on the ground, such as baboons.",
+    "image":"http://www.toptenz.net/wp-content/uploads/2013/04/indian-monkey-arrested-animals.jpg"
+  },
+
+  {
+    "name" : "Rabbit",
+    "features":"Rabbits are small mammals in the family Leporidae of the order Lagomorpha. Oryctolagus cuniculus includes the European rabbit species and its descendants, the world's 305 breeds of domestic rabbit.",
+    "image":"https://www.planwallpaper.com/static/cache/29/5e/295ecbaa4c34272ea16b4197a1713010.jpg"
+  },
+  {
+    "name" : "Sheep",
+    "features":"The sheep is a quadrupedal, ruminant mammal typically kept as livestock. Like most ruminants, sheep are members of the order Artiodactyla, the even-toed ungulates",
+    "image":"https://images.pexels.com/photos/97317/pexels-photo-97317.jpeg?auto=compress&cs=tinysrgb&h=350"
+  }
+
+]
